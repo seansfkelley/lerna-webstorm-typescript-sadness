@@ -1,6 +1,6 @@
 # webstorm-typescript-sadness
 
-Webstorm version `2016.2.3`. TypeScript settings:
+Webstorm version `EAP 163.4396.14`. TypeScript settings:
 
 - Node 6.5.0 (via `homebrew`)
 - using packaged TypeScript version (1.8.10)

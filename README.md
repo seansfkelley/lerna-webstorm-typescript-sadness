@@ -1,6 +1,10 @@
 # webstorm-typescript-sadness
 
-Webstorm version `2016.2.3`.
+Webstorm version `2016.2.3`. TypeScript settings:
+
+- Node 6.5.0 (via `homebrew`)
+- using packaged TypeScript version (1.8.10)
+- "Enable TypeScript Compiler" and "Use TypeScript Service" both disabled
 
 ## Issue 1
 

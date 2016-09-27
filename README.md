@@ -14,10 +14,11 @@ Webstorm can't find types packaged with node modules when you've ignored `node_m
 
 ### Reproduction
 
-1. Start a new project in Webstorm.
-2. Go to `Preferences > Directories > Add Content Root` and add `nested-project`.
-3. Go to `Editor > File Types > Ignore files and folders` and add an entry for `node_modules`.
-4. Open `reselect.ts` and see that it complains about imports.
+1. Clone this repo.
+2. Start a new project in Webstorm.
+3. Go to `Preferences > Directories > Add Content Root` and add `nested-project`.
+4. Go to `Editor > File Types > Ignore files and folders` and add an entry for `node_modules`.
+5. Open `reselect.ts` and see that it complains about imports.
 
 ## Issue 2
 
